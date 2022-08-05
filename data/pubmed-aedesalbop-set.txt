@@ -1,0 +1,1278 @@
+PMID- 33600413
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210611
+LR  - 20210611
+IS  - 1935-2735 (Electronic)
+IS  - 1935-2727 (Print)
+IS  - 1935-2727 (Linking)
+VI  - 15
+IP  - 2
+DP  - 2021 Feb
+TI  - Host interactions of Aedes albopictus, an invasive vector of arboviruses, in 
+      Virginia, USA.
+PG  - e0009173
+LID - 10.1371/journal.pntd.0009173 [doi]
+LID - e0009173
+AB  - BACKGROUND: As an invasive mosquito species in the United States, Aedes 
+      albopictus is a potential vector of arboviruses including dengue, chikungunya, 
+      and Zika, and may also be involved in occasional transmission of other 
+      arboviruses such as West Nile, Saint Louis encephalitis, eastern equine 
+      encephalitis, and La Crosse viruses. Aedes albopictus feeds on a wide variety of 
+      vertebrate hosts, wild and domestic, as well as humans. METHODOLOGY/PRINCIPAL 
+      FINDINGS: In order to investigate blood feeding patterns of Ae. albopictus, 
+      engorged specimens were collected from a variety of habitat types using the 
+      Centers for Disease Control and Prevention light traps, Biogents Sentinel 2 
+      traps, and modified Reiter gravid traps in southeast Virginia. Sources of blood 
+      meals were determined by the analysis of mitochondrial cytochrome b gene 
+      sequences amplified in PCR assays. Our aims were to quantify degrees of Ae. 
+      albopictus interactions with vertebrate hosts as sources of blood meals, 
+      investigate arboviral infection status, assess the influence of key 
+      socioecological conditions on spatial variability in blood feeding, and 
+      investigate temporal differences in blood feeding by season. Analysis of 961 
+      engorged specimens of Ae. albopictus sampled between 2017-2019 indicated that 
+      96%, 4%, and less than 1% obtained blood meals from mammalian, reptilian, and 
+      avian hosts, respectively. Domestic cats were the most frequently identified 
+      (50.5%) hosts followed by Virginia opossums (17.1%), white-tailed deer (12.2%), 
+      and humans (7.3%), together representing 87.1% of all identified blood hosts. We 
+      found spatial patterns in blood feeding linked to socioecological conditions and 
+      seasonal shifts in Ae. albopictus blood feeding with implications for 
+      understanding human biting and disease risk. In Suffolk Virginia in areas of 
+      lower human development, the likelihood of human blood feeding increased as 
+      median household income increased and human blood feeding was more likely early 
+      in the season (May-June) compared to later (July-October). Screening of the head 
+      and thorax of engorged Ae. albopictus mosquitoes by cell culture and RT-PCR 
+      resulted in a single isolate of Potosi virus. CONCLUSION AND SIGNIFICANCE: 
+      Understanding mosquito-host interactions in nature is vital for evaluating 
+      vectorial capacity of mosquitoes. These interactions with competent reservoir 
+      hosts support transmission, maintenance, and amplification of zoonotic agents of 
+      human diseases. Results of our study in conjunction with abundance in 
+      urban/suburban settings, virus isolation from field-collected mosquitoes, and 
+      vector competence of Ae. albopictus, highlight the potential involvement of this 
+      species in the transmission of a number of arboviruses such as dengue, 
+      chikungunya, and Zika to humans. Limited interaction with avian hosts suggests 
+      that Ae. albopictus is unlikely to serve as a bridge vector of arboviruses such 
+      as West Nile and eastern equine encephalitis in the study region, but that 
+      possibility cannot be entirely ruled out.
+FAU - Little, Eliza A H
+AU  - Little EAH
+AUID- ORCID: 0000-0002-1603-7161
+AD  - Department of Entomology, The Connecticut Agricultural Experiment Station, New 
+      Haven, Connecticut, United States of America.
+AD  - Center for Vector Biology & Zoonotic Diseases and Northeast Regional Center for 
+      Excellence in Vector-borne Diseases, The Connecticut Agricultural Experiment 
+      Station, New Haven, Connecticut, United States of America.
+FAU - Harriott, Olivia T
+AU  - Harriott OT
+AUID- ORCID: 0000-0001-5915-8062
+AD  - Biology Department, Fairfield University, Fairfield, Connecticut, United States 
+      of America.
+FAU - Akaratovic, Karen I
+AU  - Akaratovic KI
+AD  - Suffolk Mosquito Control, Department of Public Works, Suffolk, Virginia, United 
+      States of America.
+FAU - Kiser, Jay P
+AU  - Kiser JP
+AD  - Suffolk Mosquito Control, Department of Public Works, Suffolk, Virginia, United 
+      States of America.
+FAU - Abadam, Charles F
+AU  - Abadam CF
+AUID- ORCID: 0000-0002-7153-7361
+AD  - Suffolk Mosquito Control, Department of Public Works, Suffolk, Virginia, United 
+      States of America.
+FAU - Shepard, John J
+AU  - Shepard JJ
+AUID- ORCID: 0000-0001-7342-5147
+AD  - Center for Vector Biology & Zoonotic Diseases and Northeast Regional Center for 
+      Excellence in Vector-borne Diseases, The Connecticut Agricultural Experiment 
+      Station, New Haven, Connecticut, United States of America.
+AD  - Department of Environmental Sciences, The Connecticut Agricultural Experiment 
+      Station, New Haven, Connecticut, United States of America.
+FAU - Molaei, Goudarz
+AU  - Molaei G
+AUID- ORCID: 0000-0002-1520-5573
+AD  - Center for Vector Biology & Zoonotic Diseases and Northeast Regional Center for 
+      Excellence in Vector-borne Diseases, The Connecticut Agricultural Experiment 
+      Station, New Haven, Connecticut, United States of America.
+AD  - Department of Environmental Sciences, The Connecticut Agricultural Experiment 
+      Station, New Haven, Connecticut, United States of America.
+AD  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health, 
+      New Haven, Connecticut, United States of America.
+LA  - eng
+GR  - U01 CK000509/CK/NCEZID CDC HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20210218
+TA  - PLoS Negl Trop Dis
+JT  - PLoS neglected tropical diseases
+JID - 101291488
+SB  - IM
+MH  - Aedes/*physiology/*virology
+MH  - Animals
+MH  - Arbovirus Infections
+MH  - Arboviruses/*isolation & purification
+MH  - Birds
+MH  - Blood/virology
+MH  - *Feeding Behavior
+MH  - Humans
+MH  - Mammals
+MH  - Mosquito Vectors/physiology/virology
+MH  - Turtles
+MH  - Virginia
+PMC - PMC7924790
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2021/02/19 06:00
+MHDA- 2021/06/12 06:00
+CRDT- 2021/02/18 17:14
+PHST- 2020/08/25 00:00 [received]
+PHST- 2021/01/23 00:00 [accepted]
+PHST- 2021/03/02 00:00 [revised]
+PHST- 2021/02/19 06:00 [pubmed]
+PHST- 2021/06/12 06:00 [medline]
+PHST- 2021/02/18 17:14 [entrez]
+AID - PNTD-D-20-01523 [pii]
+AID - 10.1371/journal.pntd.0009173 [doi]
+PST - epublish
+SO  - PLoS Negl Trop Dis. 2021 Feb 18;15(2):e0009173. doi: 
+      10.1371/journal.pntd.0009173. eCollection 2021 Feb.
+
+PMID- 33834007
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210705
+LR  - 20210705
+IS  - 2235-2988 (Electronic)
+IS  - 2235-2988 (Linking)
+VI  - 11
+DP  - 2021
+TI  - Vector Competence for DENV-2 Among Aedes albopictus (Diptera: Culicidae) 
+      Populations in China.
+PG  - 649975
+LID - 10.3389/fcimb.2021.649975 [doi]
+LID - 649975
+AB  - Aedes albopictus is a vector of over 20 arboviruses that has spread throughout 
+      the world, mainly in the second half of the twentieth century. Approximately 
+      50-100 million people are infected with dengue virus (DENV) transmitted by Aedes 
+      mosquitoes each year, leading to heavy economic burdens for both governments and 
+      individuals, among countless other negative consequences. Understanding the 
+      vector competence of vector species is critical for effectively preventing and 
+      controlling vector-borne diseases. Accordingly, in this study, vector competence 
+      was evaluated by quantitative analysis of DENV-2 loads in mosquito tissues 
+      (midguts, heads, and salivary glands) and whole mosquitoes through real-time 
+      quantitative polymerase chain reaction (RT-qPCR) analysis. Wolbachia and the 
+      expression of immune-associated genes (Rel1, Rel2, Dicer2, and STAT) in 
+      mosquitoes were also detected by RT-qPCR to explore their impact on vector 
+      competence. The amount of DENV-2 in the mosquito midguts, heads, and salivary 
+      glands from southern-western China were found to be lower than those from 
+      eastern-central-northern China. The DENV-2 loads in whole mosquitoes showed a 
+      negative correlation with Rel1 gene (r = -0.285, P = 0.011) and STAT gene 
+      expression levels (r = -0.289, P = 0.009). In terms of Wolbachia strains, the 
+      density of the wAlbB strain was found to be significantly higher than that of the 
+      wAlbA strain in the eight Ae. albopictus populations, and the relative density of 
+      the wAlbB strain in mosquitoes from southern-western China was higher than those 
+      from eastern-central-northern China. The relative density of the wAlbB strain 
+      showed a negative correlation with the mean loads of DENV-2 in the heads (r = 
+      -0.729, P = 0.040), salivary glands (r = -0.785, P = 0.021), and whole mosquitoes 
+      (r = -0.909, P = 0.002). Thus, there are lower DENV-2 loads in the mosquitoes 
+      from southern-western China, which may be related to the innate immunity of 
+      mosquitoes as affected by Rel1 in the Toll pathway, STAT in the JAK-STAT pathway, 
+      and the relative density of the wAlbB strain.
+CI  - Copyright © 2021 Wei, Wang, Wei, Song, Hu, Chen, Zhou, Zhong and Zheng.
+FAU - Wei, Yong
+AU  - Wei Y
+AD  - Department of Pathogen Biology, School of Public Health, Southern Medical 
+      University, Guangzhou, China.
+FAU - Wang, Jiatian
+AU  - Wang J
+AD  - Department of Pathogen Biology, School of Public Health, Southern Medical 
+      University, Guangzhou, China.
+FAU - Wei, Yuan-Huan
+AU  - Wei YH
+AD  - Department of Clinical Nutrition, Huazhong University of Science and Technology 
+      Union Shenzhen Hospital, Shenzhen, China.
+FAU - Song, Zhangyao
+AU  - Song Z
+AD  - Department of Pathogen Biology, School of Public Health, Southern Medical 
+      University, Guangzhou, China.
+FAU - Hu, Ke
+AU  - Hu K
+AD  - Department of Pathogen Biology, School of Public Health, Southern Medical 
+      University, Guangzhou, China.
+FAU - Chen, Yulan
+AU  - Chen Y
+AD  - Department of Pathogen Biology, School of Public Health, Southern Medical 
+      University, Guangzhou, China.
+FAU - Zhou, Guofa
+AU  - Zhou G
+AD  - Program in Public Health, College of Health Sciences, University of California, 
+      Irvine, Irvine, CA, United States.
+FAU - Zhong, Daibin
+AU  - Zhong D
+AD  - Program in Public Health, College of Health Sciences, University of California, 
+      Irvine, Irvine, CA, United States.
+FAU - Zheng, Xueli
+AU  - Zheng X
+AD  - Department of Pathogen Biology, School of Public Health, Southern Medical 
+      University, Guangzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210323
+TA  - Front Cell Infect Microbiol
+JT  - Frontiers in cellular and infection microbiology
+JID - 101585359
+SB  - IM
+MH  - *Aedes
+MH  - Animals
+MH  - China
+MH  - *Dengue Virus
+MH  - Mosquito Vectors
+MH  - *Wolbachia
+PMC - PMC8021855
+OTO - NOTNLM
+OT  - *Aedes albopictus
+OT  - *Wolbachia
+OT  - *dengue
+OT  - *immune genes
+OT  - *vector competence
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2021/04/10 06:00
+MHDA- 2021/07/06 06:00
+CRDT- 2021/04/09 06:29
+PHST- 2021/01/25 00:00 [received]
+PHST- 2021/03/08 00:00 [accepted]
+PHST- 2021/04/09 06:29 [entrez]
+PHST- 2021/04/10 06:00 [pubmed]
+PHST- 2021/07/06 06:00 [medline]
+AID - 10.3389/fcimb.2021.649975 [doi]
+PST - epublish
+SO  - Front Cell Infect Microbiol. 2021 Mar 23;11:649975. doi: 
+      10.3389/fcimb.2021.649975. eCollection 2021.
+
+PMID- 30833735
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190626
+LR  - 20220420
+IS  - 2058-5276 (Electronic)
+IS  - 2058-5276 (Linking)
+VI  - 4
+IP  - 5
+DP  - 2019 May
+TI  - Past and future spread of the arbovirus vectors Aedes aegypti and Aedes 
+      albopictus.
+PG  - 854-863
+LID - 10.1038/s41564-019-0376-y [doi]
+AB  - The global population at risk from mosquito-borne diseases-including dengue, 
+      yellow fever, chikungunya and Zika-is expanding in concert with changes in the 
+      distribution of two key vectors: Aedes aegypti and Aedes albopictus. The 
+      distribution of these species is largely driven by both human movement and the 
+      presence of suitable climate. Using statistical mapping techniques, we show that 
+      human movement patterns explain the spread of both species in Europe and the 
+      United States following their introduction. We find that the spread of Ae. 
+      aegypti is characterized by long distance importations, while Ae. albopictus has 
+      expanded more along the fringes of its distribution. We describe these processes 
+      and predict the future distributions of both species in response to accelerating 
+      urbanization, connectivity and climate change. Global surveillance and control 
+      efforts that aim to mitigate the spread of chikungunya, dengue, yellow fever and 
+      Zika viruses must consider the so far unabated spread of these mosquitos. Our 
+      maps and predictions offer an opportunity to strategically target surveillance 
+      and control programmes and thereby augment efforts to reduce arbovirus burden in 
+      human populations globally.
+FAU - Kraemer, Moritz U G
+AU  - Kraemer MUG
+AUID- ORCID: 0000-0001-8838-7147
+AD  - Department of Zoology, University of Oxford, Oxford, UK. 
+      moritz.kraemer@zoo.ox.ac.uk.
+AD  - Harvard Medical School, Harvard University, Boston, MA, USA. 
+      moritz.kraemer@zoo.ox.ac.uk.
+AD  - Boston Children's Hospital, Boston, MA, USA. moritz.kraemer@zoo.ox.ac.uk.
+FAU - Reiner, Robert C Jr
+AU  - Reiner RC Jr
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FAU - Brady, Oliver J
+AU  - Brady OJ
+AD  - Centre for Mathematical Modelling of Infectious Diseases, London School of 
+      Hygiene and Tropical Medicine, London, UK.
+AD  - Department of Infectious Disease Epidemiology, London School of Hygiene and 
+      Tropical Medicine, London, UK.
+FAU - Messina, Jane P
+AU  - Messina JP
+AD  - School of Geography and the Environment, University of Oxford, Oxford, UK.
+AD  - Oxford School of Global and Area Studies, University of Oxford, Oxford, UK.
+FAU - Gilbert, Marius
+AU  - Gilbert M
+AD  - Spatial Epidemiology Lab (SpELL), Universite Libre de Bruxelles, Brussels, 
+      Belgium.
+AD  - Fonds National de la Recherche Scientifique, Brussels, Belgium.
+FAU - Pigott, David M
+AU  - Pigott DM
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FAU - Yi, Dingdong
+AU  - Yi D
+AD  - Department of Statistics, Harvard University, Cambridge, MA, USA.
+FAU - Johnson, Kimberly
+AU  - Johnson K
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FAU - Earl, Lucas
+AU  - Earl L
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FAU - Marczak, Laurie B
+AU  - Marczak LB
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FAU - Shirude, Shreya
+AU  - Shirude S
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FAU - Davis Weaver, Nicole
+AU  - Davis Weaver N
+AUID- ORCID: 0000-0002-7205-9621
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FAU - Bisanzio, Donal
+AU  - Bisanzio D
+AD  - RTI International, Washington, DC, USA.
+AD  - Epidemiology and Public Health Division, School of Medicine, University of 
+      Nottingham, Nottingham, UK.
+FAU - Perkins, T Alex
+AU  - Perkins TA
+AD  - Department of Biological Sciences and Eck Institute for Global Health, University 
+      of Notre Dame, Notre Dame, IN, USA.
+FAU - Lai, Shengjie
+AU  - Lai S
+AD  - School of Health, Fudan University, Key Laboratory of Public Health Safety, 
+      Ministry of Education, Shanghai, China.
+AD  - Department of Geography and Environment, University of Southampton, Southampton, 
+      UK.
+AD  - Flowminder Foundation, Stockholm, Sweden.
+FAU - Lu, Xin
+AU  - Lu X
+AD  - School of Business, Central South University, Changsha, China.
+AD  - College of Systems Engineering, National University of Defense Technology, 
+      Changsha, China.
+AD  - School of Business Administration, Southwestern University of Finance and 
+      Economics, Chengdu, China.
+FAU - Jones, Peter
+AU  - Jones P
+AD  - Waen Associates Ltd, Y Waen, Islaw'r Dref, Dolgellau, Gwynedd, UK.
+FAU - Coelho, Giovanini E
+AU  - Coelho GE
+AD  - Pan American Health Organization (PAHO), Washington, DC, USA.
+FAU - Carvalho, Roberta G
+AU  - Carvalho RG
+AD  - National Dengue Control Program, Ministry of Health, Brasilia, Brazil.
+FAU - Van Bortel, Wim
+AU  - Van Bortel W
+AUID- ORCID: 0000-0002-6644-518X
+AD  - European Centre for Disease Prevention and Control, Stockholm, Sweden.
+AD  - Institute of Tropical Medicine, Antwerp, Belgium.
+FAU - Marsboom, Cedric
+AU  - Marsboom C
+AD  - Avia-GIS, Zoersel, Belgium.
+FAU - Hendrickx, Guy
+AU  - Hendrickx G
+AD  - Avia-GIS, Zoersel, Belgium.
+FAU - Schaffner, Francis
+AU  - Schaffner F
+AD  - Francis Schaffner Consultancy, Riehen, Switzerland.
+FAU - Moore, Chester G
+AU  - Moore CG
+AD  - Department of Microbiology, Immunology, and Pathology, Colorado State University, 
+      Fort Collins, CO, USA.
+FAU - Nax, Heinrich H
+AU  - Nax HH
+AD  - Computational Social Science, ETH Zurich, Zurich, Switzerland.
+FAU - Bengtsson, Linus
+AU  - Bengtsson L
+AD  - Flowminder Foundation, Stockholm, Sweden.
+AD  - Department of Public Health Sciences, Karolinska Institutet, Stockholm, Sweden.
+FAU - Wetter, Erik
+AU  - Wetter E
+AUID- ORCID: 0000-0002-5821-6651
+AD  - Flowminder Foundation, Stockholm, Sweden.
+AD  - Stockholm School of Economics, Stockholm, Sweden.
+FAU - Tatem, Andrew J
+AU  - Tatem AJ
+AD  - Department of Geography and Environment, University of Southampton, Southampton, 
+      UK.
+AD  - Flowminder Foundation, Stockholm, Sweden.
+FAU - Brownstein, John S
+AU  - Brownstein JS
+AD  - Harvard Medical School, Harvard University, Boston, MA, USA.
+AD  - Boston Children's Hospital, Boston, MA, USA.
+FAU - Smith, David L
+AU  - Smith DL
+AUID- ORCID: 0000-0003-4367-3849
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FAU - Lambrechts, Louis
+AU  - Lambrechts L
+AUID- ORCID: 0000-0001-5958-2138
+AD  - Insect-Virus Interactions Unit, Institut Pasteur, CNRS, UMR2000, Paris, France.
+FAU - Cauchemez, Simon
+AU  - Cauchemez S
+AD  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, CNRS, 
+      UMR2000, Paris, France.
+FAU - Linard, Catherine
+AU  - Linard C
+AUID- ORCID: 0000-0002-0819-7755
+AD  - Spatial Epidemiology Lab (SpELL), Universite Libre de Bruxelles, Brussels, 
+      Belgium.
+AD  - Department of Geography, Universite de Namur, Namur, Belgium.
+FAU - Faria, Nuno R
+AU  - Faria NR
+AUID- ORCID: 0000-0002-9747-8822
+AD  - Department of Zoology, University of Oxford, Oxford, UK.
+FAU - Pybus, Oliver G
+AU  - Pybus OG
+AD  - Department of Zoology, University of Oxford, Oxford, UK.
+FAU - Scott, Thomas W
+AU  - Scott TW
+AD  - Department of Entomology and Nematology, University of California, Davis, Davis, 
+      CA, USA.
+FAU - Liu, Qiyong
+AU  - Liu Q
+AD  - State Key Laboratory of Infectious Disease Prevention and Control, Collaborative 
+      Innovation Center for Diagnosis and Treatment of Infectious Diseases, National 
+      Institute for Communicable Disease Control and Prevention, Chinese Center for 
+      Disease Control and Prevention, Changping, Beijing, China.
+AD  - Shandong University Climate Change and Health Center, School of Public Health, 
+      Shandong University, Jinan, Shandong, China.
+AD  - WHO Collaborating Centre for Vector Surveillance and Management, Beijing, China.
+AD  - Chongqing Centre for Disease Control and Prevention, Chongqing, China.
+FAU - Yu, Hongjie
+AU  - Yu H
+AD  - School of Health, Fudan University, Key Laboratory of Public Health Safety, 
+      Ministry of Education, Shanghai, China.
+FAU - Wint, G R William
+AU  - Wint GRW
+AD  - Department of Zoology, University of Oxford, Oxford, UK.
+AD  - Environmental Research Group Oxford (ERGO), Department of Zoology, Oxford 
+      University, Oxford, UK.
+FAU - Hay, Simon I
+AU  - Hay SI
+AUID- ORCID: 0000-0002-0611-7272
+AD  - Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA. sihay@uw.edu.
+FAU - Golding, Nick
+AU  - Golding N
+AUID- ORCID: 0000-0001-8916-5570
+AD  - School of BioSciences, University of Melbourne, Parkville, Victoria, Australia. 
+      nick.golding.research@gmail.com.
+LA  - eng
+GR  - R01 LM010812/LM/NLM NIH HHS/United States
+GR  - P01 AI098670/AI/NIAID NIH HHS/United States
+GR  - T32 HD040128/HD/NICHD NIH HHS/United States
+GR  - R01 LM011965/LM/NLM NIH HHS/United States
+GR  - U19 AI089674/AI/NIAID NIH HHS/United States
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - 204311/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190304
+TA  - Nat Microbiol
+JT  - Nature microbiology
+JID - 101674869
+SB  - IM
+EIN - Nat Microbiol. 2019 Mar 21;:. PMID: 30903094
+EIN - Nat Microbiol. 2019 Apr 8;:. PMID: 30962571
+MH  - Aedes/classification/physiology/*virology
+MH  - Animals
+MH  - Arbovirus Infections/*transmission/virology
+MH  - Arboviruses/genetics/*physiology
+MH  - Female
+MH  - Humans
+MH  - Mosquito Vectors/classification/physiology/*virology
+PMC - PMC6522366
+MID - EMS81409
+COIS- The authors declare no competing interests.
+EDAT- 2019/03/06 06:00
+MHDA- 2019/06/27 06:00
+CRDT- 2019/03/06 06:00
+PHST- 2018/11/20 00:00 [received]
+PHST- 2019/01/18 00:00 [accepted]
+PHST- 2019/03/06 06:00 [pubmed]
+PHST- 2019/06/27 06:00 [medline]
+PHST- 2019/03/06 06:00 [entrez]
+AID - 10.1038/s41564-019-0376-y [pii]
+AID - 376 [pii]
+AID - 10.1038/s41564-019-0376-y [doi]
+PST - ppublish
+SO  - Nat Microbiol. 2019 May;4(5):854-863. doi: 10.1038/s41564-019-0376-y. Epub 2019 
+      Mar 4.
+
+PMID- 19450706
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100208
+LR  - 20220318
+IS  - 1769-714X (Electronic)
+IS  - 1286-4579 (Linking)
+VI  - 11
+IP  - 14-15
+DP  - 2009 Dec
+TI  - Aedes albopictus, an arbovirus vector: from the darkness to the light.
+PG  - 1177-85
+LID - 10.1016/j.micinf.2009.05.005 [doi]
+AB  - The Asian tiger mosquito, Aedes albopictus (Skuse, 1894), is an invasive species 
+      that can be found on all continents. The species, originally considered a 
+      secondary vector of viruses such as Dengue viruses, has recently been suggested 
+      to play a role in the transmission of Chikungunya virus in several countries 
+      bordering the Indian Ocean, Central Africa and Europe. Here we review the current 
+      geographic range and the relevant biological traits of A. albopictus in order to 
+      explain its rapid spread. We examine and discuss recent changes in its role as a 
+      vector, particularly in the transmission of arboviruses, and its importance in 
+      the current and future emergence of pathogens. Finally, we report conventional 
+      and innovative ways to control A. albopictus.
+FAU - Paupy, C
+AU  - Paupy C
+AD  - Institut de Recherche pour le Développement, UR016, BP 1857 Yaoundé, Cameroon. 
+      paupy@ird.fr
+FAU - Delatte, H
+AU  - Delatte H
+FAU - Bagny, L
+AU  - Bagny L
+FAU - Corbel, V
+AU  - Corbel V
+FAU - Fontenille, D
+AU  - Fontenille D
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20090518
+PL  - France
+TA  - Microbes Infect
+JT  - Microbes and infection
+JID - 100883508
+SB  - IM
+MH  - Aedes/classification/physiology/*virology
+MH  - *Alphavirus Infections/prevention & control/transmission/virology
+MH  - Animals
+MH  - *Arbovirus Infections/prevention & control/transmission/virology
+MH  - Arboviruses
+MH  - Chikungunya virus
+MH  - Global Health
+MH  - Humans
+MH  - Insect Vectors/classification/physiology/*virology
+MH  - Mosquito Control
+RF  - 65
+EDAT- 2009/05/20 09:00
+MHDA- 2010/02/09 06:00
+CRDT- 2009/05/20 09:00
+PHST- 2009/04/27 00:00 [received]
+PHST- 2009/05/06 00:00 [accepted]
+PHST- 2009/05/20 09:00 [entrez]
+PHST- 2009/05/20 09:00 [pubmed]
+PHST- 2010/02/09 06:00 [medline]
+AID - S1286-4579(09)00105-1 [pii]
+AID - 10.1016/j.micinf.2009.05.005 [doi]
+PST - ppublish
+SO  - Microbes Infect. 2009 Dec;11(14-15):1177-85. doi: 10.1016/j.micinf.2009.05.005. 
+      Epub 2009 May 18.
+
+PMID- 32847630
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210712
+LR  - 20211111
+IS  - 1474-760X (Electronic)
+IS  - 1474-7596 (Print)
+IS  - 1474-7596 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2020 Aug 26
+TI  - Improved reference genome of the arboviral vector Aedes albopictus.
+PG  - 215
+LID - 10.1186/s13059-020-02141-w [doi]
+LID - 215
+AB  - BACKGROUND: The Asian tiger mosquito Aedes albopictus is globally expanding and 
+      has become the main vector for human arboviruses in Europe. With limited 
+      antiviral drugs and vaccines available, vector control is the primary approach to 
+      prevent mosquito-borne diseases. A reliable and accurate DNA sequence of the Ae. 
+      albopictus genome is essential to develop new approaches that involve genetic 
+      manipulation of mosquitoes. RESULTS: We use long-read sequencing methods and 
+      modern scaffolding techniques (PacBio, 10X, and Hi-C) to produce AalbF2, a 
+      dramatically improved assembly of the Ae. albopictus genome. AalbF2 reveals 
+      widespread viral insertions, novel microRNAs and piRNA clusters, the 
+      sex-determining locus, and new immunity genes, and enables genome-wide studies of 
+      geographically diverse Ae. albopictus populations and analyses of the 
+      developmental and stage-dependent network of expression data. Additionally, we 
+      build the first physical map for this species with 75% of the assembled genome 
+      anchored to the chromosomes. CONCLUSION: The AalbF2 genome assembly represents 
+      the most up-to-date collective knowledge of the Ae. albopictus genome. These 
+      resources represent a foundation to improve understanding of the adaptation 
+      potential and the epidemiological relevance of this species and foster the 
+      development of innovative control measures.
+FAU - Palatini, Umberto
+AU  - Palatini U
+AD  - Department of Biology and Biotechnology, University of Pavia, Pavia, 27100, 
+      Italy.
+FAU - Masri, Reem A
+AU  - Masri RA
+AD  - Department of Entomology and the Fralin Life Science Institute, Virginia 
+      Polytechnic and State University, Blacksburg, VA, 24061, USA.
+FAU - Cosme, Luciano V
+AU  - Cosme LV
+AD  - Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT, 
+      06511-8934, USA.
+FAU - Koren, Sergey
+AU  - Koren S
+AD  - Genome Informatics Section, Computational and Statistical Genomics Branch, 
+      National Human Genome Research Institute, National Institutes of Health, 
+      Bethesda, 20892-2152, MD, USA.
+FAU - Thibaud-Nissen, Françoise
+AU  - Thibaud-Nissen F
+AD  - National Center for Biotechnology Information, National Library of Medicine, 
+      National Institutes of Health, Bethesda, 20894, MD, USA.
+FAU - Biedler, James K
+AU  - Biedler JK
+AD  - Department of Entomology and the Fralin Life Science Institute, Virginia 
+      Polytechnic and State University, Blacksburg, VA, 24061, USA.
+FAU - Krsticevic, Flavia
+AU  - Krsticevic F
+AD  - Department of Entomology, Robert H Smith Faculty of Agriculture, Food and 
+      Environment, The Hebrew University of Jerusalem, 7610001, Rehovot, Israel.
+FAU - Johnston, J Spencer
+AU  - Johnston JS
+AD  - Department of Entomology, Texas A&M University, College Station, TX, 77843, USA.
+FAU - Halbach, Rebecca
+AU  - Halbach R
+AD  - Department of Medical Microbiology, Radboud University Medical Center, Radboud 
+      Institute for Molecular Life Sciences, P.O. Box 9101, 6500 HB, Nijmegen, The 
+      Netherlands.
+FAU - Crawford, Jacob E
+AU  - Crawford JE
+AD  - Verily Life Sciences, South San Francisco, 94080, CA, USA.
+FAU - Antoshechkin, Igor
+AU  - Antoshechkin I
+AD  - Division of Biology and Biological Engineering, California Institute of 
+      Technology, Pasadena, CA, 91125, USA.
+FAU - Failloux, Anna-Bella
+AU  - Failloux AB
+AD  - Department of Virology, Arbovirus and Insect Vectors Units, Institut Pasteur, 
+      Paris, 75015, France.
+FAU - Pischedda, Elisa
+AU  - Pischedda E
+AD  - Department of Biology and Biotechnology, University of Pavia, Pavia, 27100, 
+      Italy.
+FAU - Marconcini, Michele
+AU  - Marconcini M
+AD  - Department of Biology and Biotechnology, University of Pavia, Pavia, 27100, 
+      Italy.
+FAU - Ghurye, Jay
+AU  - Ghurye J
+AD  - Genome Informatics Section, Computational and Statistical Genomics Branch, 
+      National Human Genome Research Institute, National Institutes of Health, 
+      Bethesda, 20892-2152, MD, USA.
+FAU - Rhie, Arang
+AU  - Rhie A
+AD  - Genome Informatics Section, Computational and Statistical Genomics Branch, 
+      National Human Genome Research Institute, National Institutes of Health, 
+      Bethesda, 20892-2152, MD, USA.
+FAU - Sharma, Atashi
+AU  - Sharma A
+AD  - Department of Entomology and the Fralin Life Science Institute, Virginia 
+      Polytechnic and State University, Blacksburg, VA, 24061, USA.
+FAU - Karagodin, Dmitry A
+AU  - Karagodin DA
+AD  - Laboratory of Evolutionary Genomics of Insects, The Federal Research Center 
+      Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of 
+      Sciences, Novosibirsk, 630090, Russia.
+FAU - Jenrette, Jeremy
+AU  - Jenrette J
+AD  - Department of Entomology and the Fralin Life Science Institute, Virginia 
+      Polytechnic and State University, Blacksburg, VA, 24061, USA.
+FAU - Gamez, Stephanie
+AU  - Gamez S
+AD  - Division of Biological Sciences, University of California, San Diego, La Jolla, 
+      CA, 92093-0349, USA.
+FAU - Miesen, Pascal
+AU  - Miesen P
+AD  - Department of Medical Microbiology, Radboud University Medical Center, Radboud 
+      Institute for Molecular Life Sciences, P.O. Box 9101, 6500 HB, Nijmegen, The 
+      Netherlands.
+FAU - Masterson, Patrick
+AU  - Masterson P
+AD  - National Center for Biotechnology Information, National Library of Medicine, 
+      National Institutes of Health, Bethesda, 20894, MD, USA.
+FAU - Caccone, Adalgisa
+AU  - Caccone A
+AD  - Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT, 
+      06511-8934, USA.
+FAU - Sharakhova, Maria V
+AU  - Sharakhova MV
+AD  - Department of Entomology and the Fralin Life Science Institute, Virginia 
+      Polytechnic and State University, Blacksburg, VA, 24061, USA.
+AD  - Laboratory of Evolutionary Genomics of Insects, The Federal Research Center 
+      Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of 
+      Sciences, Novosibirsk, 630090, Russia.
+AD  - Laboratory of Ecology, Genetics and Environment Protection, Tomsk State 
+      University, Tomsk, 634041, Russia.
+FAU - Tu, Zhijian
+AU  - Tu Z
+AD  - Department of Entomology and the Fralin Life Science Institute, Virginia 
+      Polytechnic and State University, Blacksburg, VA, 24061, USA.
+FAU - Papathanos, Philippos A
+AU  - Papathanos PA
+AD  - Department of Entomology, Robert H Smith Faculty of Agriculture, Food and 
+      Environment, The Hebrew University of Jerusalem, 7610001, Rehovot, Israel.
+FAU - Van Rij, Ronald P
+AU  - Van Rij RP
+AD  - Department of Medical Microbiology, Radboud University Medical Center, Radboud 
+      Institute for Molecular Life Sciences, P.O. Box 9101, 6500 HB, Nijmegen, The 
+      Netherlands.
+FAU - Akbari, Omar S
+AU  - Akbari OS
+AD  - Division of Biological Sciences, University of California, San Diego, La Jolla, 
+      CA, 92093-0349, USA.
+FAU - Powell, Jeffrey
+AU  - Powell J
+AD  - Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT, 
+      06511-8934, USA.
+FAU - Phillippy, Adam M
+AU  - Phillippy AM
+AD  - Genome Informatics Section, Computational and Statistical Genomics Branch, 
+      National Human Genome Research Institute, National Institutes of Health, 
+      Bethesda, 20892-2152, MD, USA.
+FAU - Bonizzoni, Mariangela
+AU  - Bonizzoni M
+AUID- ORCID: 0000-0003-0568-8564
+AD  - Department of Biology and Biotechnology, University of Pavia, Pavia, 27100, 
+      Italy. m.bonizzzoni@unipv.it.
+LA  - eng
+GR  - R01 AI151004/AI/NIAID NIH HHS/United States
+GR  - R21 AI135258/AI/NIAID NIH HHS/United States
+GR  - 1R01AI151004-01/Foundation for the National Institutes of Health/International
+GR  - R01AI32409/Foundation for the National Institutes of Health/International
+GR  - 1DP2AI152071-01/Foundation for the National Institutes of Health/International
+GR  - R21AI135258/Foundation for the National Institutes of Health/International
+GR  - DP2 AI152071/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20200826
+TA  - Genome Biol
+JT  - Genome biology
+JID - 100960660
+RN  - 0 (RNA, Small Interfering)
+SB  - IM
+EIN - Genome Biol. 2021 Jul 12;22(1):205. PMID: 34253230
+MH  - Aedes/*genetics/immunology/virology
+MH  - Animals
+MH  - Arboviruses/*genetics
+MH  - Chromosome Mapping
+MH  - Chromosomes
+MH  - *Genome
+MH  - Genome Size
+MH  - Immunity
+MH  - Insect Vectors
+MH  - Mosquito Vectors/*genetics/immunology/virology
+MH  - RNA, Small Interfering/genetics
+MH  - Transcriptome
+PMC - PMC7448346
+OTO - NOTNLM
+OT  - *Ae. albopictus
+OT  - *Developmental transcriptome
+OT  - *Genome
+OT  - *Immunity
+OT  - *Population differentiation
+OT  - *Sex locus
+OT  - *Viral integrations
+OT  - *miRNAs
+OT  - *piRNA clusters
+COIS- J.E. Crawford is employed by the Verily Life Sciences LLC. S. Koren has received 
+      travel compensation to present at Pacific Biosciences meetings. All remaining 
+      authors declare no competing interests.
+EDAT- 2020/08/28 06:00
+MHDA- 2021/07/13 06:00
+CRDT- 2020/08/28 06:00
+PHST- 2020/04/26 00:00 [received]
+PHST- 2020/08/07 00:00 [accepted]
+PHST- 2020/08/28 06:00 [entrez]
+PHST- 2020/08/28 06:00 [pubmed]
+PHST- 2021/07/13 06:00 [medline]
+AID - 10.1186/s13059-020-02141-w [pii]
+AID - 2141 [pii]
+AID - 10.1186/s13059-020-02141-w [doi]
+PST - epublish
+SO  - Genome Biol. 2020 Aug 26;21(1):215. doi: 10.1186/s13059-020-02141-w.
+
+PMID- 32581265
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210623
+LR  - 20210624
+IS  - 2399-3642 (Electronic)
+IS  - 2399-3642 (Linking)
+VI  - 3
+IP  - 1
+DP  - 2020 Jun 24
+TI  - Vector competence of Aedes albopictus populations for chikungunya virus is shaped 
+      by their demographic history.
+PG  - 326
+LID - 10.1038/s42003-020-1046-6 [doi]
+LID - 326
+AB  - The mosquito Aedes albopictus is one of the most dangerous invasive species. Its 
+      worldwide spread has created health concerns as it is a major vector of 
+      arboviruses of public health significance such as chikungunya (CHIKV). Dynamics 
+      of different genetic backgrounds and admixture events may have impacted 
+      competence for CHIKV in adventive populations. Using microsatellites, we infer 
+      the genetic structure of populations across the expansion areas that we then 
+      associate with their competence for different CHIKV genotypes. Here we show that 
+      the demographic history of Ae. albopictus populations is a consequence of rapid 
+      complex patterns of historical lineage diversification and divergence that 
+      influenced their competence for CHIKV. The history of adventive populations is 
+      associated with CHIKV genotypes in a genotype-by-genotype interaction that 
+      impacts their vector competence. Thus, knowledge of the demographic history and 
+      vector competence of invasive mosquitoes is pivotal for assessing the risk of 
+      arbovirus outbreaks in newly colonized areas.
+FAU - Vega-Rúa, Anubis
+AU  - Vega-Rúa A
+AD  - Laboratory of Vector Control Research, Institut Pasteur of Guadeloupe, 97139, 
+      Guadeloupe, France.
+FAU - Marconcini, Michele
+AU  - Marconcini M
+AUID- ORCID: 0000-0002-6785-9106
+AD  - Department of Biology and Biotechnology, University of Pavia, Via Ferrata 9, 
+      27100, Pavia, Italy.
+FAU - Madec, Yoann
+AU  - Madec Y
+AD  - Department of Infection and Epidemiology of Emerging Diseases, Institut Pasteur, 
+      25-28 rue du Dr Roux, 75724, Paris, France.
+FAU - Manni, Mosè
+AU  - Manni M
+AUID- ORCID: 0000-0002-4146-6523
+AD  - Department of Biology and Biotechnology, University of Pavia, Via Ferrata 9, 
+      27100, Pavia, Italy.
+AD  - Department of Genetic Medicine and Development, University of Geneva Medical 
+      School, 1 rue Michel-Servet 1211 Genève and Swiss Institute of Bioinformatics, 
+      Geneva, Switzerland.
+FAU - Carraretto, Davide
+AU  - Carraretto D
+AD  - Department of Biology and Biotechnology, University of Pavia, Via Ferrata 9, 
+      27100, Pavia, Italy.
+FAU - Gomulski, Ludvik Marcus
+AU  - Gomulski LM
+AUID- ORCID: 0000-0002-1506-7051
+AD  - Department of Biology and Biotechnology, University of Pavia, Via Ferrata 9, 
+      27100, Pavia, Italy.
+FAU - Gasperi, Giuliano
+AU  - Gasperi G
+AUID- ORCID: 0000-0001-6972-8591
+AD  - Department of Biology and Biotechnology, University of Pavia, Via Ferrata 9, 
+      27100, Pavia, Italy. gasperi@unipv.it.
+FAU - Failloux, Anna-Bella
+AU  - Failloux AB
+AUID- ORCID: 0000-0001-6890-0820
+AD  - Department of Virology, Arboviruses and Insect Vectors Unit, Institut Pasteur, 
+      25-28 rue du Dr Roux, 75724, Paris, France. anna-bella.failloux@pasteur.fr.
+FAU - Malacrida, Anna Rodolfa
+AU  - Malacrida AR
+AUID- ORCID: 0000-0003-4566-8795
+AD  - Department of Biology and Biotechnology, University of Pavia, Via Ferrata 9, 
+      27100, Pavia, Italy. malacrid@unipv.it.
+LA  - eng
+PT  - Journal Article
+DEP - 20200624
+TA  - Commun Biol
+JT  - Communications biology
+JID - 101719179
+SB  - IM
+MH  - Aedes/*genetics/*virology
+MH  - Animals
+MH  - Asia, Southeastern
+MH  - Chikungunya Fever/transmission
+MH  - *Chikungunya virus
+MH  - Female
+MH  - Genetic Variation
+MH  - *Genetics, Population
+MH  - Host-Pathogen Interactions
+MH  - Introduced Species
+MH  - Microsatellite Repeats
+MH  - Mosquito Vectors
+MH  - North America
+MH  - South America
+PMC - PMC7314749
+COIS- The authors declare no competing interests.
+EDAT- 2020/06/26 06:00
+MHDA- 2021/06/24 06:00
+CRDT- 2020/06/26 06:00
+PHST- 2020/01/14 00:00 [received]
+PHST- 2020/05/26 00:00 [accepted]
+PHST- 2020/06/26 06:00 [entrez]
+PHST- 2020/06/26 06:00 [pubmed]
+PHST- 2021/06/24 06:00 [medline]
+AID - 10.1038/s42003-020-1046-6 [pii]
+AID - 1046 [pii]
+AID - 10.1038/s42003-020-1046-6 [doi]
+PST - epublish
+SO  - Commun Biol. 2020 Jun 24;3(1):326. doi: 10.1038/s42003-020-1046-6.
+
+PMID- 18416242
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080630
+LR  - 20170207
+IS  - 1252-607X (Print)
+IS  - 1252-607X (Linking)
+VI  - 15
+IP  - 1
+DP  - 2008 Mar
+TI  - [Aedes albopictus, vector of chikungunya and dengue viruses in Reunion Island: 
+      biology and control].
+PG  - 3-13
+AB  - Chikungunya virus (CHIKV) and dengue virus (DENV) are mosquito-borne viruses 
+      transmitted by the Aedes genus. Dengue is considered as the most important 
+      arbovirus disease throughout the World. Chikungunya, known from epidemics in 
+      continental Africa and Asia, has up to now been poorly studied. It has been 
+      recently responsible for the severe 2004-2007 epidemic reported in the Indian 
+      Ocean (IO), which has caused several serious health and economic problems. This 
+      unprecedented epidemic of the IO has shown severe health troubles with morbidity 
+      and death associated, which had never been observed before. The two major vectors 
+      of those arboviruses in the IO area are Aedes aegypti and Aedes albopictus. The 
+      latest is considered as the main vector in most of the islands of the area, 
+      especially in Reunion Island. Ae. albopictus showed strong ecological plasticity. 
+      Small disposable containers were the principal urban breeding sites, and 
+      preferred natural developmental sites were bamboo stumps and rock holes in 
+      peri-urban and gully areas. The virus has been isolated from field collected Ae. 
+      albopictus females, and in two out of 500 pools of larvae, demonstrating vertical 
+      transmission. Experimental works showed that both Ae. albopictus and Ae. aegypti 
+      from west IO islands are efficient vectors of dengue and chikungunya viruses. 
+      Since 2006 and all along the epidemic of CHIKV, measures for the control of 
+      larvae (temephos then Bacillus thuringiensis) and adults (fenitrothion, then 
+      deltamethrine) of Ae. albopictus where applied along with individual and 
+      collective actions (by the use of repellents, and removal of breeding sites 
+      around houses) in Reunion Island. In order to prevent such epidemics, a 
+      preventive plan for arboviruses upsurge is ongoing processed. This plan would 
+      allow a quicker response to the threat and adapt it according to the virus and 
+      its specific vector.
+FAU - Delatte, H
+AU  - Delatte H
+AD  - UR 016, IRD, BP 64501, 34394 Montpellier 5, France. helene.delatte@ird.fr
+FAU - Paupy, C
+AU  - Paupy C
+FAU - Dehecq, J S
+AU  - Dehecq JS
+FAU - Thiria, J
+AU  - Thiria J
+FAU - Failloux, A B
+AU  - Failloux AB
+FAU - Fontenille, D
+AU  - Fontenille D
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Aedes albopictus, vecteur des virus du chikungunya et de la dengue a la Réunion: 
+      biologie et contrôle.
+PL  - France
+TA  - Parasite
+JT  - Parasite (Paris, France)
+JID - 9437094
+SB  - IM
+MH  - Aedes/growth & development/*virology
+MH  - Alphavirus Infections/epidemiology/*transmission/veterinary
+MH  - Animals
+MH  - Chikungunya virus/*isolation & purification
+MH  - Dengue/epidemiology/*transmission/veterinary
+MH  - Dengue Virus/isolation & purification
+MH  - Female
+MH  - Humans
+MH  - Insect Vectors/growth & development/*virology
+MH  - Male
+MH  - Mosquito Control/*methods
+MH  - Oviposition
+MH  - Reunion
+RF  - 72
+EDAT- 2008/04/18 09:00
+MHDA- 2008/07/01 09:00
+CRDT- 2008/04/18 09:00
+PHST- 2008/04/18 09:00 [pubmed]
+PHST- 2008/07/01 09:00 [medline]
+PHST- 2008/04/18 09:00 [entrez]
+AID - 10.1051/parasite/2008151003 [doi]
+PST - ppublish
+SO  - Parasite. 2008 Mar;15(1):3-13. doi: 10.1051/parasite/2008151003.
+
+PMID- 27273325
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170621
+LR  - 20181113
+IS  - 1365-2540 (Electronic)
+IS  - 0018-067X (Print)
+IS  - 0018-067X (Linking)
+VI  - 117
+IP  - 3
+DP  - 2016 Sep
+TI  - Population genetics of the Asian tiger mosquito Aedes albopictus, an invasive 
+      vector of human diseases.
+PG  - 125-34
+LID - 10.1038/hdy.2016.35 [doi]
+AB  - The Asian tiger mosquito Aedes albopictus is currently one of the most 
+      threatening invasive species in the world. Native to Southeast Asia, the species 
+      has spread throughout the world in the past 30 years and is now present in every 
+      continent but Antarctica. Because it was the main vector of recent Dengue and 
+      Chikungunya outbreaks, and because of its competency for numerous other viruses 
+      and pathogens such as the Zika virus, A. albopictus stands out as a model species 
+      for invasive diseases vector studies. A synthesis of the current knowledge about 
+      the genetic diversity of A. albopictus is needed, knowing the interplays between 
+      the vector, the pathogens, the environment and their epidemiological 
+      consequences. Such resources are also valuable for assessing the role of genetic 
+      diversity in the invasive success. We review here the large but sometimes 
+      dispersed literature about the population genetics of A. albopictus. We first 
+      debate about the experimental design of these studies and present an up-to-date 
+      assessment of the available molecular markers. We then summarize the main genetic 
+      characteristics of natural populations and synthesize the available data 
+      regarding the worldwide structuring of the vector. Finally, we pinpoint the gaps 
+      that remain to be addressed and suggest possible research directions.
+FAU - Goubert, C
+AU  - Goubert C
+AD  - Univ Lyon, Université Claude Bernard Lyon 1, CNRS, Laboratoire de Biométrie et 
+      Biologie Evolutive, UMR5558, Villeurbanne, France.
+FAU - Minard, G
+AU  - Minard G
+AD  - Microbial Ecology, UMR CNRS 5557, UMR INRA 1418, VetAgro Sup, FR41 BioEnvironment 
+      and Health, Université Claude Bernard Lyon 1, Villeurbanne, France.
+AD  - Department of Biosciences, Metapopulation Research Center, University of 
+      Helsinki, Helsinki, Finland.
+FAU - Vieira, C
+AU  - Vieira C
+AD  - Univ Lyon, Université Claude Bernard Lyon 1, CNRS, Laboratoire de Biométrie et 
+      Biologie Evolutive, UMR5558, Villeurbanne, France.
+FAU - Boulesteix, M
+AU  - Boulesteix M
+AD  - Univ Lyon, Université Claude Bernard Lyon 1, CNRS, Laboratoire de Biométrie et 
+      Biologie Evolutive, UMR5558, Villeurbanne, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20160608
+TA  - Heredity (Edinb)
+JT  - Heredity
+JID - 0373007
+RN  - 0 (Genetic Markers)
+SB  - IM
+MH  - Aedes/*genetics/virology
+MH  - Animals
+MH  - Genetic Markers
+MH  - Genetic Variation
+MH  - *Genetics, Population
+MH  - Insect Vectors/*genetics/virology
+MH  - *Introduced Species
+PMC - PMC4981682
+EDAT- 2016/06/09 06:00
+MHDA- 2017/06/22 06:00
+CRDT- 2016/06/09 06:00
+PHST- 2015/09/29 00:00 [received]
+PHST- 2016/03/24 00:00 [revised]
+PHST- 2016/04/08 00:00 [accepted]
+PHST- 2016/06/09 06:00 [entrez]
+PHST- 2016/06/09 06:00 [pubmed]
+PHST- 2017/06/22 06:00 [medline]
+AID - hdy201635 [pii]
+AID - 10.1038/hdy.2016.35 [doi]
+PST - ppublish
+SO  - Heredity (Edinb). 2016 Sep;117(3):125-34. doi: 10.1038/hdy.2016.35. Epub 2016 Jun 
+      8.
+
+PMID- 31400202
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201014
+LR  - 20201014
+IS  - 1938-2928 (Electronic)
+IS  - 0022-2585 (Print)
+IS  - 0022-2585 (Linking)
+VI  - 57
+IP  - 1
+DP  - 2020 Jan 9
+TI  - Mapping Aedes aegypti (Diptera: Culicidae) and Aedes albopictus Vector Mosquito 
+      Distribution in Brownsville, TX.
+PG  - 231-240
+LID - 10.1093/jme/tjz132 [doi]
+AB  - Aedes mosquitoes are vectors of several emerging diseases and are spreading 
+      worldwide. We investigated the spatiotemporal dynamics of Aedes aegypti 
+      (Linnaeus) and Aedes albopictus (Skuse) mosquito trap captures in Brownsville, 
+      TX, using high-resolution land cover, socioeconomic, and meteorological data. We 
+      modeled mosquito trap counts using a Bayesian hierarchical mixed-effects model 
+      with spatially correlated residuals. The models indicated an inverse relationship 
+      between temperature and mosquito trap counts for both species, which may be due 
+      to the hot and arid climate of southern Texas. The temporal trend in mosquito 
+      populations indicated Ae. aegypti populations peaking in the late spring and Ae. 
+      albopictus reaching a maximum in winter. Our results indicated that seasonal 
+      weather variation, vegetation height, human population, and land cover determine 
+      which of the two Aedes species will predominate.
+CI  - © The Author(s) 2019. Published by Oxford University Press on behalf of 
+      Entomological Society of America.
+FAU - Myer, Mark H
+AU  - Myer MH
+AD  - ORISE U.S. Environmental Protection Agency, Athens, GA.
+FAU - Fizer, Chelsea M
+AU  - Fizer CM
+AD  - ORAU U.S. Environmental Protection Agency, Durham, NC.
+FAU - Mcpherson, Kenneth R
+AU  - Mcpherson KR
+AD  - U.S. Environmental Protection Agency, Dallas, TX.
+FAU - Neale, Anne C
+AU  - Neale AC
+AD  - U.S. Environmental Protection Agency, Durham, NC.
+FAU - Pilant, Andrew N
+AU  - Pilant AN
+AD  - U.S. Environmental Protection Agency, Durham, NC.
+FAU - Rodriguez, Arturo
+AU  - Rodriguez A
+AD  - Public Health Department, Brownsville, TX.
+FAU - Whung, Pai-Yei
+AU  - Whung PY
+AD  - U.S. Environmental Protection Agency, Durham, NC.
+FAU - Johnston, John M
+AU  - Johnston JM
+AD  - U.S. Environmental Protection Agency, Athens, GA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+TA  - J Med Entomol
+JT  - Journal of medical entomology
+JID - 0375400
+SB  - IM
+MH  - Aedes/growth & development/*physiology
+MH  - *Animal Distribution
+MH  - Animals
+MH  - Bayes Theorem
+MH  - Larva/growth & development/physiology
+MH  - Mosquito Vectors/growth & development/*physiology
+MH  - Species Specificity
+MH  - Temperature
+MH  - Texas
+PMC - PMC6951034
+OTO - NOTNLM
+OT  - * Aedes
+OT  - *Bayesian
+OT  - *mosquito control
+OT  - *statistical model
+OT  - *weather
+EDAT- 2019/08/11 06:00
+MHDA- 2020/10/21 06:00
+CRDT- 2019/08/11 06:00
+PHST- 2019/04/29 00:00 [received]
+PHST- 2019/08/11 06:00 [pubmed]
+PHST- 2020/10/21 06:00 [medline]
+PHST- 2019/08/11 06:00 [entrez]
+AID - 5545953 [pii]
+AID - tjz132 [pii]
+AID - 10.1093/jme/tjz132 [doi]
+PST - ppublish
+SO  - J Med Entomol. 2020 Jan 9;57(1):231-240. doi: 10.1093/jme/tjz132.
+
+PMID- 34273310
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211008
+LR  - 20211008
+IS  - 1873-6254 (Electronic)
+IS  - 0001-706X (Linking)
+VI  - 222
+DP  - 2021 Oct
+TI  - Interactions of duck Tembusu virus with Aedes aegypti and Aedes albopictus 
+      mosquitoes: Vector competence and viral mutation.
+PG  - 106051
+LID - S0001-706X(21)00230-8 [pii]
+LID - 10.1016/j.actatropica.2021.106051 [doi]
+AB  - Duck Tembusu virus (DTMUV) is an emerging flavivirus that causes severe disease 
+      in avian hosts, while also affecting mammalian hosts; however, information on 
+      viral interaction with mosquito vectors for mammalian hosts is limited. Vector 
+      competence of Aedes (Ae.) aegypti and Aedes albopictus mosquitoes for DTMUV were 
+      investigated. Both Aedes mosquito species were orally infected with DK/TH/CU-1 
+      strain of Thai DTMUV and isolated DTMUV from BALB/c mouse. Genomes of the viruses 
+      isolated from hosts and vectors were analyzed and compared with the positive 
+      virus. Findings showed that both Aedes mosquito species could serve as vectors 
+      for DTMUV with minimum viral titer in blood meal of 10(6) TCID(50)/mL. After 
+      taking blood meal with viral titer at 10(7) TCID(50)/mL, vector competence of the 
+      mosquitoes was significantly different from the lower titer in both species. Both 
+      Aedes species did not support development of the isolated viruses from mouse. A 
+      point mutation of nucleotide and amino acid was found in all isolated DTMUV from 
+      Ae. aegypti saliva, while other viruses were similar to the positive virus. Our 
+      findings demonstrated that both Ae. aegypti and Ae. albopictus had potential to 
+      transmit the virus and play important roles in the viral transmission cycle in 
+      mammalian hosts, while viral mutation occurred in Ae. aegypti mosquitoes.
+CI  - Copyright © 2021. Published by Elsevier B.V.
+FAU - Yurayart, Nichapat
+AU  - Yurayart N
+AD  - Animal Vector-Borne Disease Research Unit, Veterinary Parasitology Unit, 
+      Department of Veterinary Pathology, Faculty of Veterinary Science, Chulalongkorn 
+      University, Bangkok, Thailand.
+FAU - Ninvilai, Patchareeporn
+AU  - Ninvilai P
+AD  - Department of Veterinary Microbiology, Faculty of Veterinary Science, 
+      Chulalongkorn University, Bangkok, Thailand.
+FAU - Chareonviriyaphap, Theeraphap
+AU  - Chareonviriyaphap T
+AD  - Department of Entomology, Faculty of Agriculture, Kasetsart University, Bangkok, 
+      Thailand.
+FAU - Kaewamatawong, Theerayuth
+AU  - Kaewamatawong T
+AD  - Veterinary Pathology Unit, Department of Veterinary Pathology, Faculty of 
+      Veterinary Science, Chulalongkorn University, Bangkok, Thailand.
+FAU - Thontiravong, Aunyaratana
+AU  - Thontiravong A
+AD  - Animal Vector-Borne Disease Research Unit, Veterinary Parasitology Unit, 
+      Department of Veterinary Pathology, Faculty of Veterinary Science, Chulalongkorn 
+      University, Bangkok, Thailand; Department of Veterinary Microbiology, Faculty of 
+      Veterinary Science, Chulalongkorn University, Bangkok, Thailand.
+FAU - Tiawsirisup, Sonthaya
+AU  - Tiawsirisup S
+AD  - Animal Vector-Borne Disease Research Unit, Veterinary Parasitology Unit, 
+      Department of Veterinary Pathology, Faculty of Veterinary Science, Chulalongkorn 
+      University, Bangkok, Thailand. Electronic address: sonthaya.t@chula.ac.th.
+LA  - eng
+PT  - Journal Article
+DEP - 20210714
+PL  - Netherlands
+TA  - Acta Trop
+JT  - Acta tropica
+JID - 0370374
+RN  - Tembusu virus
+SB  - IM
+MH  - *Aedes/virology
+MH  - Animals
+MH  - *Flavivirus/genetics
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Mosquito Vectors/virology
+MH  - Mutation
+OTO - NOTNLM
+OT  - Aedes aegypti
+OT  - Aedes albopictus
+OT  - Disseminated rate
+OT  - Duck Tembusu virus
+OT  - Infected rate
+OT  - Infective rate
+OT  - Vector competence
+OT  - Virus mutation
+EDAT- 2021/07/18 06:00
+MHDA- 2021/10/09 06:00
+CRDT- 2021/07/17 20:09
+PHST- 2021/02/20 00:00 [received]
+PHST- 2021/06/16 00:00 [revised]
+PHST- 2021/07/05 00:00 [accepted]
+PHST- 2021/07/18 06:00 [pubmed]
+PHST- 2021/10/09 06:00 [medline]
+PHST- 2021/07/17 20:09 [entrez]
+AID - S0001-706X(21)00230-8 [pii]
+AID - 10.1016/j.actatropica.2021.106051 [doi]
+PST - ppublish
+SO  - Acta Trop. 2021 Oct;222:106051. doi: 10.1016/j.actatropica.2021.106051. Epub 2021 
+      Jul 14.

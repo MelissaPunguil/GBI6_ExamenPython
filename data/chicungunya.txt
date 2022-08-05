@@ -1,0 +1,101 @@
+
+PMID- 33733807
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210528
+LR  - 20210528
+IS  - 1130-0108 (Print)
+IS  - 1130-0108 (Linking)
+VI  - 113
+IP  - 5
+DP  - 2021 May
+TI  - COVID-19 and venous thromboembolism: part of a multisystem disease.
+PG  - 390
+LID - 10.17235/reed.2021.7907/2021 [doi]
+AB  - We read with great interest recent scientific letters addressing abdominalaspects of COVID-19. Martin-Falquina IC et al. reported the thrombotic nature of acute pancreatitis (AP) in a patient with COVID-19 and likewise, our patient withAP was previously anticoagulated. The association in the medical literaturebetween viral infections (such as those caused by the human immunodeficiencyviruses, hepatitis C and influenza) and venous thromboembolism (VTE) has againbecome evident in the scientific community, both in 2017 during the epidemic ofchicungunya and Zika, and more recently in the current COVID-19 pandemic.
+FAU - Alvarenga Fernandes, Daniel
+AU  - Alvarenga Fernandes D
+AUID- ORCID: 0000-0001-8138-1316
+AD  - Radiology, School of MedicSchool of Medical Sciences. University of Campinas(UNICAMP), Brasil.
+FAU - Satomi Yumioka, Aline
+AU  - Satomi Yumioka A
+AUID- ORCID: 0000-0002-2634-7075
+AD  - Radiology, School of Medical Sciences. University of Campinas (UNICAMP), Brasil.
+FAU - Ranes de Menezes Filho, Helio
+AU  - Ranes de Menezes Filho H
+AUID- ORCID: 0000-0002-6751-7528
+AD  - Infectious Diseases, School of Medical Sciences. University of Campinas(UNICAMP), Brasil.
+LA  - eng
+PT  - Letter
+PT  - Comment
+PL  - Spain
+TA  - Rev Esp Enferm Dig
+JT  - Revista espanola de enfermedades digestivas : organo oficial de la SociedadEspanola de Patologia Digestiva
+JID - 9007566
+RN  - 0 (Anticoagulants)
+RN  - 0 (Fibrinolytic Agents)
+SB  - IM
+CON - J Am Coll Cardiol. 2020 Jun 16;75(23):2950-2973. PMID: 32311448
+MH  - Acute Disease
+MH  - Anticoagulants
+MH  - *COVID-19
+MH  - Fibrinolytic Agents
+MH  - Humans
+MH  - *Pancreatitis
+MH  - Pandemics
+MH  - SARS-CoV-2
+MH  - *Venous Thromboembolism/epidemiology/etiology
+MH  - *Zika Virus
+MH  - *Zika Virus Infection
+EDAT- 2021/03/19 06:00
+MHDA- 2021/05/29 06:00
+CRDT- 2021/03/18 12:22
+PHST- 2021/03/19 06:00 [pubmed]
+PHST- 2021/05/29 06:00 [medline]
+PHST- 2021/03/18 12:22 [entrez]
+AID - 10.17235/reed.2021.7907/2021 [doi]
+PST - ppublish
+SO  - Rev Esp Enferm Dig. 2021 May;113(5):390. doi: 10.17235/reed.2021.7907/2021.
+
+PMID- 5799852
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19690922
+LR  - 20140729
+IS  - 0370-582X (Print)
+IS  - 0370-582X (Linking)
+VI  - 33
+IP  - 3
+DP  - 1969 Apr-Jun
+TI  - [Kinetics of the production of hemagglutination inhibitng and complement fixingantibodies in the mouse immunized with chicungunya, o'nyong-nyong and Sindbisviruses].
+PG  - 125-53
+FAU - Bres, P
+AU  - Bres P
+FAU - Hery, G
+AU  - Hery G
+LA  - fre
+PT  - Journal Article
+TT  - Cinetique de la production des anticorps inhibiteurs de l'hemagglutination etfixateurs du complement chez la souris immunisee avec les virus chicungunya,o'nyong-nyong et Sindbis.
+PL  - France
+TA  - Rev Immunol Ther Antimicrob
+JT  - Revue d'immunologie et de therapie antimicrobienne
+JID - 0253026
+RN  - 0 (Adjuvants, Immunologic)
+RN  - 0 (Viral Vaccines)
+SB  - IM
+MH  - Adjuvants, Immunologic
+MH  - Animals
+MH  - *Antibody Formation
+MH  - Arboviruses/immunology
+MH  - Complement Fixation Tests
+MH  - Hemagglutination Inhibition Tests
+MH  - Mice
+MH  - Viral Vaccines
+EDAT- 1969/04/01 00:00
+MHDA- 1969/04/01 00:01
+CRDT- 1969/04/01 00:00
+PHST- 1969/04/01 00:00 [pubmed]
+PHST- 1969/04/01 00:01 [medline]
+PHST- 1969/04/01 00:00 [entrez]
+PST - ppublish
+SO  - Rev Immunol Ther Antimicrob. 1969 Apr-Jun;33(3):125-53.
