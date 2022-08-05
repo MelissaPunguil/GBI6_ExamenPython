@@ -15,4 +15,8 @@ Tipo de sistema	Sistema operativo de 64 bits, procesador basado en x64
 Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
 
 # Versión Python
-Python 3.10.4 (64-bit)
+Python 3.9.7
+
+#Versión Anaconda 
+Anaconda version 1.9.0
+
