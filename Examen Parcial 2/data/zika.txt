@@ -1,4 +1,60 @@
 
+PMID- 35927898
+OWN - NLM
+STAT- Publisher
+LR  - 20220805
+IS  - 1875-533X (Electronic)
+IS  - 0929-8673 (Linking)
+DP  - 2022 Aug 2
+TI  - Next-generation sequencing for surveillance of antimicrobial resistance andpathogenicity in municipal wastewater treatment plants.
+LID - 10.2174/0929867329666220802093415 [doi]
+AB  - The World Health Organization (WHO) ranks antimicrobial resistance (AMR) andvarious pathogens among the top 10 health threats. It is estimated that by 2050, the number of human deaths due to AMR will reach 10 million annually. On theother hand, several infectious outbreaks such as SARS, H1N1 influenza, Ebola,Zika fever, and COVID-19 have severely affected human populations worldwide inthe last 20 years. These recent global diseases have generated the need tomonitor outbreaks of pathogens and AMR to establish effective public healthstrategies. This review presents AMR and pathogenicity associated with wastewatertreatment plants (WWTP), focusing on Next Generation Sequencing (NGS) monitoring as a complementary system to clinical surveillance. In this regard, WWTP may bemonitored at three main points. First, at the inlet (raw wastewater or influent) to identify a broad spectrum of AMR and pathogens contained in the excretions of residents served by sewer networks, with a specific spatio-temporal location.Second, at the effluent, to ensure the elimination of AMR and pathogens in thetreated water, considering the rising demand for safe wastewater reuse. Third, insewage sludge or biosolids, since their beneficial use or final disposal canrepresent a significant risk to public health. This review is divided into twosections to address the importance and implications of AMR and pathogensurveillance in wastewater and WWTP, based on NGS. The first section presents thefundamentals of surveillance techniques applied in WWTP (metataxonomics,metagenomics, functional metagenomics, metaviromics, and metatranscriptomics).Their scope and limitations are analyzed to show how microbiological and qPCRtechniques complement NGS surveillance, overcoming its limitations. The secondsection discusses the contribution of 36 NGS research papers on WWTPsurveillance, highlighting the current situation and perspectives. In bothsections, research challenges and opportunities are presented.
+CI  - Copyright(c) Bentham Science Publishers; For any queries, please email atepub@benthamscience.net.
+FAU - Cuetero-Martinez, Yovany
+AU  - Cuetero-Martinez Y
+AD  - Subdireccion de Hidraulica y Ambiental, Instituto de Ingenieria, UniversidadNacional Autonoma de Mexico, 04510 Cd de Mexico.
+AD  - Doctorado en Ciencias Bioquimicas, Universidad Nacional Autonoma de Mexico, 04510Cd de Mexico.
+FAU - Cobos-Vasconcelos, Daniel de Los
+AU  - Cobos-Vasconcelos DL
+AD  - Subdireccion de Hidraulica y Ambiental, Instituto de Ingenieria, UniversidadNacional Autonoma de Mexico, 04510 Cd de Mexico.
+FAU - Aguirre-Garrido, Jose Felix
+AU  - Aguirre-Garrido JF
+AD  - Departamento de Ciencias Ambientales, Universidad Autonoma Metropolitana-Lerma,52005 Lerma de Villada, Edo. Mexico.
+FAU - Lopez-Vidal, Yolanda
+AU  - Lopez-Vidal Y
+AD  - Departamento de Microbiologia y Parasitologia, Facultad de Medicina, Universidad Nacional Autonoma de Mexico, 04510 Cd de Mexico.
+FAU - Noyola, Adalberto
+AU  - Noyola A
+AD  - Subdireccion de Hidraulica y Ambiental, Instituto de Ingenieria, UniversidadNacional Autonoma de Mexico, 04510 Cd de Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20220802
+PL  - United Arab Emirates
+TA  - Curr Med Chem
+JT  - Current medicinal chemistry
+JID - 9440157
+SB  - IM
+OTO - NOTNLM
+OT  - SARS CoV-2.
+OT  - antibiotic resistance genes
+OT  - biosolids
+OT  - pathogens
+OT  - sewage treatment
+OT  - wastewater monitoring
+EDAT- 2022/08/06 06:00
+MHDA- 2022/08/06 06:00
+CRDT- 2022/08/05 01:13
+PHST- 2022/02/18 00:00 [received]
+PHST- 2022/04/01 00:00 [revised]
+PHST- 2022/04/25 00:00 [accepted]
+PHST- 2022/08/05 01:13 [entrez]
+PHST- 2022/08/06 06:00 [pubmed]
+PHST- 2022/08/06 06:00 [medline]
+AID - CMC-EPUB-125266 [pii]
+AID - 10.2174/0929867329666220802093415 [doi]
+PST - aheadofprint
+SO  - Curr Med Chem. 2022 Aug 2. pii: CMC-EPUB-125266. doi:10.2174/0929867329666220802093415.
+
 PMID- 35926066
 OWN - NLM
 STAT- Publisher
@@ -243,7 +299,7 @@ SO  - J Infect Dis. 2022 Aug 4. pii: 6655539. doi: 10.1093/infdis/jiac329.
 PMID- 35923646
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2772-7076 (Electronic)
 IS  - 2772-7076 (Linking)
 VI  - 4
@@ -4087,12 +4143,12 @@ SO  - Biosensors (Basel). 2022 Jul 9;12(7). pii: bios12070501. doi:10.3390/bios1
 PMID- 35881642
 OWN - NLM
 STAT- Publisher
-LR  - 20220726
+LR  - 20220805
 IS  - 1935-2735 (Electronic)
 IS  - 1935-2727 (Linking)
 VI  - 16
 IP  - 7
-DP  - 2022 Jul 26
+DP  - 2022 Jul
 TI  - Arbovirus risk perception as a predictor of mosquito-bite preventive behaviors inPonce, Puerto Rico.
 PG  - e0010653
 LID - 10.1371/journal.pntd.0010653 [doi]
@@ -4143,13 +4199,14 @@ MHDA- 2022/07/27 06:00
 CRDT- 2022/07/26 13:43
 PHST- 2021/08/20 00:00 [received]
 PHST- 2022/07/11 00:00 [accepted]
-PHST- 2022/07/26 13:43 [entrez]
+PHST- 2022/08/05 00:00 [revised]
 PHST- 2022/07/27 06:00 [pubmed]
 PHST- 2022/07/27 06:00 [medline]
+PHST- 2022/07/26 13:43 [entrez]
 AID - 10.1371/journal.pntd.0010653 [doi]
 AID - PNTD-D-21-01239 [pii]
-PST - aheadofprint
-SO  - PLoS Negl Trop Dis. 2022 Jul 26;16(7):e0010653. doi:10.1371/journal.pntd.0010653.
+PST - epublish
+SO  - PLoS Negl Trop Dis. 2022 Jul 26;16(7):e0010653. doi:10.1371/journal.pntd.0010653. eCollection 2022 Jul.
 
 PMID- 35880081
 OWN - NLM
@@ -5171,7 +5228,7 @@ SO  - Photodiagnosis Photodyn Ther. 2022 Jul 21:103030. doi:10.1016/j.pdpdt.2022
 PMID- 35872070
 OWN - NLM
 STAT- Publisher
-LR  - 20220804
+LR  - 20220805
 IS  - 1089-8638 (Electronic)
 IS  - 0022-2836 (Linking)
 VI  - 434
@@ -5209,6 +5266,7 @@ TA  - J Mol Biol
 JT  - Journal of molecular biology
 JID - 2985088R
 SB  - IM
+PMC - PMC9342930
 OTO - NOTNLM
 OT  - IFITM
 OT  - cholesterol
@@ -9747,8 +9805,9 @@ SO  - Acta Trop. 2022 Sep;233:106573. doi: 10.1016/j.actatropica.2022.106573. Ep
 
 PMID- 35766944
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1557-8976 (Electronic)
 IS  - 0882-8245 (Linking)
 VI  - 35
@@ -9795,6 +9854,15 @@ TA  - Viral Immunol
 JT  - Viral immunology
 JID - 8801552
 SB  - IM
+MH  - *COVID-19/complications
+MH  - *Epstein-Barr Virus Infections/complications
+MH  - *Guillain-Barre Syndrome/diagnosis/epidemiology/therapy
+MH  - Herpesvirus 4, Human
+MH  - Humans
+MH  - Pandemics
+MH  - SARS-CoV-2
+MH  - *Zika Virus
+MH  - *Zika Virus Infection
 OTO - NOTNLM
 OT  - GBS
 OT  - SARS-CoV-2
@@ -9802,10 +9870,10 @@ OT  - immunomodulation
 OT  - neuroimmune disorder
 OT  - viral infections
 EDAT- 2022/06/30 06:00
-MHDA- 2022/06/30 06:00
+MHDA- 2022/08/06 06:00
 CRDT- 2022/06/29 10:33
 PHST- 2022/06/30 06:00 [pubmed]
-PHST- 2022/06/30 06:00 [medline]
+PHST- 2022/08/06 06:00 [medline]
 PHST- 2022/06/29 10:33 [entrez]
 AID - 10.1089/vim.2021.0187 [doi]
 PST - ppublish
@@ -13582,7 +13650,7 @@ SO  - Curr Med Chem. 2022 Jun 10. pii: CMC-EPUB-124384. doi:10.2174/092986732966
 
 PMID- 35699338
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220805
 IS  - 1468-1331 (Electronic)
 IS  - 1351-5101 (Linking)
@@ -15115,7 +15183,7 @@ SO  - Stat Methods Med Res. 2022 Aug;31(8):1590-1602. doi: 10.1177/0962280222110
 PMID- 35655326
 OWN - NLM
 STAT- Publisher
-LR  - 20220611
+LR  - 20220805
 IS  - 1096-9071 (Electronic)
 IS  - 0146-6615 (Linking)
 DP  - 2022 Jun 2
@@ -15170,6 +15238,7 @@ TA  - J Med Virol
 JT  - Journal of medical virology
 JID - 7705876
 SB  - IM
+PMC - PMC9347534
 OTO - NOTNLM
 OT  - Ebola
 OT  - HIV-1
@@ -18920,7 +18989,8 @@ SO  - J Am Mosq Control Assoc. 2022 Jun 1;38(2):118-122. doi: 10.2987/22-7060.
 PMID- 35588174
 OWN - NLM
 STAT- MEDLINE
-LR  - 20220715
+DCOM- 20220523
+LR  - 20220805
 IS  - 1943-6270 (Electronic)
 IS  - 8756-971X (Linking)
 VI  - 38
@@ -18948,6 +19018,7 @@ AU  - Ellis BR
 FAU - Byrd, Brian D
 AU  - Byrd BD
 LA  - eng
+GR  - CC999999/ImCDC/Intramural CDC HHS/United States
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
 PT  - Research Support, U.S. Gov't, P.H.S.
@@ -18964,6 +19035,8 @@ MH  - Mosquito Vectors
 MH  - United States Virgin Islands
 MH  - *Zika Virus
 MH  - *Zika Virus Infection
+PMC - PMC9351386
+MID - NIHMS1825668
 OTO - NOTNLM
 OT  - *Management practices
 OT  - *St. Croix
@@ -21653,8 +21726,9 @@ SO  - Infect Disord Drug Targets. 2022 Apr 29. pii: IDDT-EPUB-123097. doi:10.217
 
 PMID- 35506896
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1557-8976 (Electronic)
 IS  - 0882-8245 (Linking)
 VI  - 35
@@ -21690,6 +21764,16 @@ TA  - Viral Immunol
 JT  - Viral immunology
 JID - 8801552
 SB  - IM
+MH  - Animals
+MH  - Female
+MH  - Humans
+MH  - Infectious Disease Transmission, Vertical
+MH  - Mice
+MH  - Placenta
+MH  - Pregnancy
+MH  - *Pregnancy Complications, Infectious
+MH  - *Zika Virus
+MH  - *Zika Virus Infection
 OTO - NOTNLM
 OT  - Zika
 OT  - antibody-dependent enhancement
@@ -21698,10 +21782,10 @@ OT  - paracellular pathway
 OT  - paraplacental
 OT  - transplacental
 EDAT- 2022/05/05 06:00
-MHDA- 2022/05/05 06:00
+MHDA- 2022/08/06 06:00
 CRDT- 2022/05/04 10:23
 PHST- 2022/05/05 06:00 [pubmed]
-PHST- 2022/05/05 06:00 [medline]
+PHST- 2022/08/06 06:00 [medline]
 PHST- 2022/05/04 10:23 [entrez]
 AID - 10.1089/vim.2021.0199 [doi]
 PST - ppublish
@@ -21811,8 +21895,7 @@ SO  - J Virol. 2022 May 25;96(10):e0050122. doi: 10.1128/jvi.00501-22. Epub 2022
 PMID- 35493734
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20220503
-LR  - 20220716
+LR  - 20220805
 IS  - 2235-2988 (Electronic)
 IS  - 2235-2988 (Linking)
 VI  - 12
@@ -21864,6 +21947,8 @@ AD  - Department of Biology, Trinity University, San Antonio, TX, United States.
 AD  - Southwest National Primate Research Center, San Antonio, TX, United States.
 LA  - eng
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20220414
 PL  - Switzerland
 TA  - Front Cell Infect Microbiol
@@ -21879,11 +21964,11 @@ MH  - *Zika Virus
 MH  - *Zika Virus Infection
 PMC - PMC9046911
 OTO - NOTNLM
-OT  - arboviral diseases
-OT  - cytokines
-OT  - immunology and infectious diseases
-OT  - nonhuman primate (NHP)
-OT  - transcriptomic
+OT  - *arboviral diseases
+OT  - *cytokines
+OT  - *immunology and infectious diseases
+OT  - *nonhuman primate (NHP)
+OT  - *transcriptomic
 COIS- The authors declare that the research was conducted in the absence of anycommercial or financial relationships that could be construed as a potentialconflict of interest.
 EDAT- 2022/05/03 06:00
 MHDA- 2022/05/04 06:00
@@ -41767,12 +41852,14 @@ SO  - Biochem Mol Biol Educ. 2022 Mar;50(2):237-245. doi: 10.1002/bmb.21605. Epu
 PMID- 35088864
 OWN - NLM
 STAT- Publisher
-LR  - 20220128
+LR  - 20220805
 IS  - 1878-3503 (Electronic)
 IS  - 0035-9203 (Linking)
-DP  - 2022 Jan 27
+VI  - 116
+IP  - 8
+DP  - 2022 Aug 5
 TI  - Decomposition of socioeconomic inequalities in arboviral diseases in Brazil andColombia (2007-2017).
-LID - trac004 [pii]
+PG  - 717-726
 LID - 10.1093/trstmh/trac004 [doi]
 AB  - BACKGROUND: We used surveillance data from Brazil and Colombia during 2007-2017to assess the presence of socioeconomic inequalities on dengue, chikungunya andZika at the neighborhood level in two Latin American cities. METHODS: To quantifythe inequality, we estimated and decomposed the relative concentration index ofinequality (RCI) accounting for the spatiotemporal distribution of the diseases. RESULTS: There were 281 426 arboviral cases notified in Fortaleza, Brazil, and 40889 in Medellin, Colombia. The RCI indicated greater concentration of denguecases among people living in low socioeconomic settings in both sites. The RCIsfor chikungunya in Fortaleza covered the line of equality during theirintroduction in 2014, while the RCIs for Zika and chikungunya in Medellinindicated the presence of a small inequality. The RCI decomposition showed thatyear of notification and age were the main contributors to this inequality. InMedellin, the RCI decomposition showed that age and access to waste managementaccounted for 75.5%, 72.2% and 54.5% of the overall inequality towards the poorfor dengue, chikungunya and Zika, respectively. CONCLUSIONS: Our study presentsestimates of the socioeconomic inequality of arboviruses and its decomposition intwo Latin American cities. We corroborate the concentration of arboviral diseasesin low socioeconomic neighborhoods and identify that year of occurrence, age,presence of healthcare facilities and waste management are key determinants ofthe heterogenous distribution of endemic arboviruses across the socioeconomicspectrum.
 CI  - (c) The Author(s) 2022. Published by Oxford University Press on behalf of RoyalSociety of Tropical Medicine and Hygiene.
@@ -41802,8 +41889,8 @@ FAU - Kaufman, Jay S
 AU  - Kaufman JS
 AD  - Department of Epidemiology, Biostatistics and Occupational Health, McGillUniversity 2001 McGill College, Suite 1200, Montreal, QC, Canada H3A 1G1.
 LA  - eng
+GR  - McGill University
 PT  - Journal Article
-DEP - 20220127
 PL  - England
 TA  - Trans R Soc Trop Med Hyg
 JT  - Transactions of the Royal Society of Tropical Medicine and Hygiene
@@ -41822,13 +41909,13 @@ CRDT- 2022/01/28 08:38
 PHST- 2022/01/10 00:00 [accepted]
 PHST- 2021/05/14 00:00 [received]
 PHST- 2021/09/20 00:00 [revised]
-PHST- 2022/01/28 08:38 [entrez]
 PHST- 2022/01/29 06:00 [pubmed]
 PHST- 2022/01/29 06:00 [medline]
+PHST- 2022/01/28 08:38 [entrez]
 AID - 6516564 [pii]
 AID - 10.1093/trstmh/trac004 [doi]
-PST - aheadofprint
-SO  - Trans R Soc Trop Med Hyg. 2022 Jan 27. pii: 6516564. doi: 10.1093/trstmh/trac004.
+PST - ppublish
+SO  - Trans R Soc Trop Med Hyg. 2022 Aug 5;116(8):717-726. doi: 10.1093/trstmh/trac004.
 
 PMID- 35087520
 OWN - NLM
@@ -42360,51 +42447,3 @@ AID - 6515611 [pii]
 AID - 10.1093/bioinformatics/btac043 [doi]
 PST - aheadofprint
 SO  - Bioinformatics. 2022 Jan 26. pii: 6515611. doi: 10.1093/bioinformatics/btac043.
-
-PMID- 35078791
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20220325
-LR  - 20220325
-IS  - 1473-4893 (Electronic)
-IS  - 1470-2118 (Linking)
-VI  - 22
-IP  - 1
-DP  - 2022 Jan
-TI  - Emerging tropical neurological infections.
-PG  - 18-20
-LID - 10.7861/clinmed.2021-0799 [doi]
-AB  - A large majority of neurological infections remain undiagnosed worldwide.Emerging and re-emerging infections are likely to be responsible for asignificant proportion of these. Over the last two decades, several new organismsproducing neurological infection and the neurotropic potential of many otherknown pathogens have been identified. Large outbreaks caused by re-emergingpathogens such as Chikungunya virus, Zika virus and Ebola virus have led tobetter delineation of their neurological manifestations. Recognition of thepandemic potential of emerging pathogens and an improved understanding of theirhost-vector-environment interactions would help us be better prepared to meetthese emerging threats.
-CI  - (c) Royal College of Physicians 2022. All rights reserved.
-FAU - Ranawaka, Udaya K
-AU  - Ranawaka UK
-AD  - University of Kelaniya, Kelaniya, Sri Lanka udayaran@kln.ac.lk.
-LA  - eng
-PT  - Journal Article
-PL  - England
-TA  - Clin Med (Lond)
-JT  - Clinical medicine (London, England)
-JID - 101092853
-SB  - IM
-MH  - *Chikungunya Fever/diagnosis/epidemiology
-MH  - *Chikungunya virus
-MH  - *Communicable Diseases, Emerging/diagnosis/epidemiology
-MH  - Disease Outbreaks
-MH  - Humans
-MH  - *Zika Virus
-MH  - *Zika Virus Infection/complications/diagnosis/epidemiology
-PMC - PMC8813028
-OTO - NOTNLM
-OT  - *emerging infections
-OT  - *neurological infections
-OT  - *tropical infections
-EDAT- 2022/01/27 06:00
-MHDA- 2022/03/26 06:00
-CRDT- 2022/01/26 05:28
-PHST- 2022/01/26 05:28 [entrez]
-PHST- 2022/01/27 06:00 [pubmed]
-PHST- 2022/03/26 06:00 [medline]
-AID - 22/1/18 [pii]
-AID - 10.7861/clinmed.2021-0799 [doi]
-PST - ppublish
-SO  - Clin Med (Lond). 2022 Jan;22(1):18-20. doi: 10.7861/clinmed.2021-0799.
